@@ -15,8 +15,5 @@ int main(){
 	
 	printf("La somme de %d et %d est : %d ",a,b,c);
 	
-	
-	
-	
 	return 0; 
 }
